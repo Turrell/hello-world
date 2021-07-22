@@ -25,3 +25,4 @@ Further reading
   https://docs.github.com/en/articles/adding-a-file-to-a-repository
 [18F's "Making READMEs readable"]
   https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-readable.md
+[what](getcomics.info)
