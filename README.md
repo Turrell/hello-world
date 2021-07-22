@@ -12,9 +12,10 @@ Why the project is useful
 How users can get started with the project
 Where users can get help with your project
 Who maintains and contributes to the project
+[Auto-generated table of contents for README files](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes#auto-generated-table-of-contents-for-readme-files)
 
-[Auto-generated table of contents for README files]
-  (https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes#auto-generated-table-of-contents-for-readme-files)
+
+
 [Section links in README files and blob pages]
   https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes#section-links-in-readme-files-and-blob-pages
 [Relative links and image paths in README files]
